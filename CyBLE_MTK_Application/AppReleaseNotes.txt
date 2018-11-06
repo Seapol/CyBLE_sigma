@@ -1,6 +1,6 @@
 ﻿Release notes:
 2018-11-06 (v4.0.6)
-1.Push to GitHub Repository of CyBLE_MTK_Development
+1.Push to GitHub Repository of CyBLE_MTK_Development_Repository-master
 
 2018-10-25 (v4.0.6)
 1.change the length of Model from 8 to 9.
